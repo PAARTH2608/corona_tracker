@@ -1,0 +1,35 @@
+/* .container{
+    display:flex;
+    flex-direction: column;
+    position:absolute;
+    width: 50%;
+    left:25%;
+    border: 2px solid black;
+    height:30vh;
+    border-radius:10px;
+}
+.container h1{
+    font-size:25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:500;
+}
+.child{
+    margin: 20px;
+    position:absolute;
+}
+.child1{
+    top:20px;
+    left:20px;
+}
+.child2{
+    bottom:20px;
+    left:20px;
+}
+.child3{
+    top:20px;
+    right:20px;
+}
+.child4{
+    bottom: 20px;
+    right:20px;
+} */
